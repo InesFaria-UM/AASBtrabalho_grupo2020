@@ -2,7 +2,7 @@
 This repository contains the work acomplished for the bioinformatics course 'Algoritmos de Análise de Sequências Biológicas'. Please notice the ReadMe file that contains important information about the execution of the scripts.
 
 # README
-This work contains one main script, Shell, and X auxiliary scripts. To start the program run the script Shell. Follow the instructions that appear in the console. Input the number of the option that you wish to do. Options are not available.
+This work contains one main script, Shell, and 14 auxiliary scripts. To start the program run the script Shell. Follow the instructions that appear in the console. Input the number of the option that you wish to do. 
 The add_sequence function allows you to add protein sequences, checking their validity.
 The ficheiro function reads fasta files exporting to another file the sequence ID and the sequence itself.
 The function annotations allows you to request an identifier string, had some features and allows you to update or create those features.
